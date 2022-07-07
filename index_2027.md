@@ -1,8 +1,8 @@
 ---
 layout: resume
-title: Alford James Rainey's Resume
+title: Brigham Young's Resume
 ---
-# Alford James Rainey
+# Brigham Young
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
